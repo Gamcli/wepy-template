@@ -1,7 +1,7 @@
 {
   "name": "buy-mp",
-  "version": "0.0.2",
-  "description": "Buy mini program",
+  "version": "0.0.1",
+  "description": "mini program",
   "main": "dist/app.js",
   "scripts": {
     "dev": "wepy build --watch",

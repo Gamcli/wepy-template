@@ -1,0 +1,13 @@
+{
+  "description": "mini program",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "touristappid",
+  "projectname": "Mp",
+  "miniprogramRoot": "./dist"
+}
